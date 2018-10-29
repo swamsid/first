@@ -1,0 +1,19 @@
+{
+    "name": "swamsid/first",
+    "description": "my first package",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dirga",
+            "email": "swamsid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Swamsid\\First\\": "src/"
+        }
+    }
+}
